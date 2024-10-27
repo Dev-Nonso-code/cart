@@ -4,3 +4,11 @@ img{
     border-radius: 6px;
     margin: 7px -10px;
 }
+a{
+    text-decoration: none;
+    text-shadow: 5px;
+}
+a:hover{
+    text-decoration: wavy;
+    text-transform: uppercase;
+}

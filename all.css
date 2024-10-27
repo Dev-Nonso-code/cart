@@ -1,0 +1,21 @@
+#cart-table{
+    height: max-content;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+img{
+    width: 7.2em;
+    height: 6em;
+}
+#btn{
+    width: 6.8em;
+    height: 3.5em;
+}
+a{
+    text-decoration: none;
+    text-shadow: 5px;
+}
+a:hover{
+    text-decoration: wavy;
+    text-transform: uppercase;
+}
